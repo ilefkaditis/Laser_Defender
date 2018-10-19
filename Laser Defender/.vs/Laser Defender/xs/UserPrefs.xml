@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{FD4A65F0-183F-9B01-6FDD-D96D34E458E6}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WaveConfig.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="18" Column="11" />
+      <File FileName="Assets/Scripts/GameSession.cs" Line="34" Column="36" />
+      <File FileName="Assets/Scripts/Player.cs" Line="64" Column="1" />
+      <File FileName="Assets/Scripts/Shredder.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/EnemyPathing.cs" Line="39" Column="10" />
+      <File FileName="Assets/Scripts/WaveConfig.cs" Line="42" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
